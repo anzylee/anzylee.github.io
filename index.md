@@ -2,7 +2,7 @@
 
 
 **Ph.d Candidate**  
-Lyles School of Civil Engineering
+Lyles School of Civil Engineering  
 Purdue University
 
 **Contact**  
