@@ -30,7 +30,7 @@ lee2513@purdue.edu
 Prepared the experimental procedures, set up the experimental apparatus, introduced the experiment, responded to student questions during the experiment, and graded student reports 
 
 ### Honors, Awards and Service Experience
-* Climate Science Summer School, NASA JPL Center for Climate Sciences (2018)
-* Delleur Award, Purdue University (2017, 2018)
-* Summer Institute on Earth-Surface Dynamics, National Center for Earth-surface Dynamics (2017)
-* Peer Reviewer, The journal Engineering Optimization (2015)
+* **Climate Science Summer School**, NASA JPL Center for Climate Sciences (2018)
+* **Delleur Award**, Purdue University (2017, 2018)
+* **Summer Institute on Earth-Surface Dynamics**, National Center for Earth-surface Dynamics (2017)
+* **Peer Reviewer**, The journal Engineering Optimization (2015)
