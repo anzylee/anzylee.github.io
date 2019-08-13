@@ -7,7 +7,7 @@ Purdue University
 
 **Contact**  
 lee2513@purdue.edu  
-[CV](https://anzylee.github.io/Anzy_Lee_CV.pdf)  
+[CV](https://anzylee.github.io/anzylee.pdf)  
 [Google Scholar](https://scholar.google.com/citations?user=g0oQ7wwAAAAJ&hl=en)
 
 ---
@@ -30,9 +30,7 @@ lee2513@purdue.edu
 Prepared the experimental procedures, set up the experimental apparatus, introduced the experiment, responded to student questions during the experiment, and graded student reports 
 
 ### Honors, Awards and Service Experience
+* Climate Science Summer School, NASA JPL Center for Climate Sciences (2018)
 * Delleur Award, Purdue University (2017, 2018)
+* Summer Institute on Earth-Surface Dynamics, National Center for Earth-surface Dynamics (2017)
 * Peer Reviewer, The journal Engineering Optimization (2015)
-* LG Foundation Fellowships, LG Yonam Foundation (2014-2015)
-* Student Representative, Spatial Environment System Engineering, Handong University (2012)
-* Merit Scholarship (Top 5%), Spatial Environment System Engineering, Handong University (2012)
-
