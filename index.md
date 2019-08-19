@@ -29,7 +29,7 @@ lee2513@purdue.edu
 * **Lab Instructor and Grader**, Elementary Fluid Mechanics, Seoul National University (Fall 2014)  
 Prepared the experimental procedures, set up the experimental apparatus, introduced the experiment, responded to student questions during the experiment, and graded student reports 
 
-### Honors, Awards and Service Experience
+### Awards, Service Experience and Extracurricular Experience
 * **Climate Science Summer School**, NASA JPL Center for Climate Sciences (2018)
 * **Delleur Award**, Purdue University (2017, 2018)
 * **Summer Institute on Earth-Surface Dynamics**, National Center for Earth-surface Dynamics (2017)
