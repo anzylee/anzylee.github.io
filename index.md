@@ -7,7 +7,7 @@ Purdue University
 
 **Contact**  
 lee2513@purdue.edu  
-[CV](https://anzylee.github.io/anzylee.pdf)  
+[CV](https://anzylee.github.io/anzyLee.pdf)  
 [Google Scholar](https://scholar.google.com/citations?user=g0oQ7wwAAAAJ&hl=en)
 
 ---
