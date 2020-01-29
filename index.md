@@ -17,7 +17,7 @@ lee2513@purdue.edu
 ---
 
 ### Pulibcation
-1. **A. Lee**, A. Aubeneau, M. B. Cardenas, 3D Numerical Modeling of Hyporheic Exchange Processes in Fractal Riverbed (in preparation)
+1. **A. Lee**, A. Aubeneau, M. B. Cardenas, The Sensitivity of Hyporheic Exchange to Fractal Properties of Riverbeds (under review, WRR)
 2. **A. Lee**, J. W. Geem, K. D. Suh (2016) Determination of near-global optimal initial weights of artificial neural network using harmony search algorithm: Application to breakwater armor stones. Appl. Sci. 6(6), 164. [[Link]](https://www.mdpi.com/2076-3417/6/6/164)
 3. **A. Lee**, S. E. Kim, K. D. Suh (2016) An easy way to use artificial neural network model for calculating stability number of rock armor. Ocean Eng. 127, 349-356. [[Link]](https://www.sciencedirect.com/science/article/pii/S0029801816304498)
 
