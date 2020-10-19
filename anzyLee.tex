@@ -20,33 +20,35 @@
 %	PACKAGES AND OTHER DOCUMENT CONFIGURATIONS
 %----------------------------------------------------------------------------------------
 \pdfmapfile{=raleway.map}
-\documentclass{resume_anzy.cls} % Use the custom resume.cls style
+\documentclass{resume_anzy} % Use the custom resume.cls style
 
 %\usepackage[default]{opensans}
 \usepackage[T1]{fontenc}
 \usepackage[default]{raleway}
+\usepackage{hyperref}
+\usepackage{xcolor}
 
 \usepackage[left=0.75in,top=0.6in,right=0.75in,bottom=0.6in]{geometry} % Document margins
 
 \name{Anzy Lee} % Your name
 
-\address{Lyles School of Civil Engineering, Purdue University \\ West Lafayette, IN 47906} % Your address
+\address{Department of Civil and Environmental Engineerig, Utah State University \\ Logan, UT 84322} % Your address
 %\address{123 Pleasant Lane \\ City, State 12345} % Your secondary addess (optional)
-\address{lee2513@purdue.edu \\ https://anzylee.github.io} % Your phone number and email
+\address{anzy.lee@usu.edu \\ \href{https://anzylee.github.io}{\textcolor{blue}{https://anzylee.github.io}}} % Your phone number and email
 
 \begin{document}
 
 %----------------------------------------------------------------------------------------
 %	Research interests
 %----------------------------------------------------------------------------------------
-\vspace{5mm}
-\begin{rSection}{Research Interests}
-\begin{rSubsection}{}{}{}{}
-\vspace{-2.5mm}
-\item {\bf Flow and transport problems:} CFD, Two-phase flow, Flow in porous media, Coupled systems
-\item {\bf Machine Learning:} Neural Networks, Metaheuristic Optimization Algorithm
-\end{rSubsection}
-\end{rSection}
+%\vspace{5mm}
+%\begin{rSection}{Research Interests}
+%\begin{rSubsection}{}{}{}{}
+%\vspace{-2.5mm}
+%\item {\bf Flow and transport problems:} Hydrodynamic models, CFD, Two-phase flow, Flow in porous media, Coupled systems
+%\item {\bf Machine Learning:} Neural Networks, Metaheuristic Optimization Algorithm
+%\end{rSubsection}
+%\end{rSection}
 
 %----------------------------------------------------------------------------------------
 %	EDUCATION SECTION
@@ -54,7 +56,7 @@
 
 \begin{rSection}{Education}
 
-{\bf Purdue University} \hfill {\em Aug 2016 - May 2020 (expected)} \\ 
+{\bf Purdue University} \hfill {\em Aug 2016 - May 2020} \\ 
 Ph.D in Civil Engineering  \\
 Dissertation: Riverbed Morphology, Hydrodynamics and Hyporheic Exchange Processes \\
 Advisor: Prof. Antoine Aubeneau
@@ -78,9 +80,20 @@ BS in Spatial Environment System Engineering
 
 \begin{rSection}{RESEARCH EXPERIENCE }
 
-
 %------------------------------------------------
 
+\begin{rSubsection}{Postdoctoral Scholar}{Aug 2020 - Current}{Prof. Belize Lane}{\textit{Utah State University}}
+\item  Quantify the effects of geomorphological parameters on ecohydraulics and ecosystem functions
+\end{rSubsection}
+
+%------------------------------------------------
+\vspace{-2.5mm}
+\begin{rSubsection}{Visiting Scholar}{Aug 2020 - Current}{Prof. Greg Pasternack}{\textit{Land, Air, and Water Resources, University of California, Davis}}
+\item  Develop a river archetype model representing various geomorphological features observed in natural riverine systems
+\end{rSubsection}
+
+%------------------------------------------------
+\vspace{-2.5mm}
 \begin{rSubsection}{Research Assistant}{Aug 2016 - Jul 2019}{Prof. Antoine Aubeneau}{\textit{Lyles School of Civil Engineering, Purdue University}}
 \item Conducted numerical modeling of hyporheic exchange processes in fractal riverbed
 \end{rSubsection}
@@ -99,10 +112,10 @@ BS in Spatial Environment System Engineering
 \end{rSubsection}
 
 %------------------------------------------------
-\vspace{-2.5mm}
-\begin{rSubsection}{Research Assistant}{2014 - 2015}{Prof. Kyung-Duck Suh}{\textit{Coastal Engineering Laboratory, Seoul National University}}
-\item Developed a robust hybrid Artificial Neural Network (ANN) model integrated with the Harmony search algorithm to estimate the stability number of armor unit of rubble mound structure 
-\end{rSubsection}
+%\vspace{-2.5mm}
+%\begin{rSubsection}{Research Assistant}{2014 - 2015}{Prof. Kyung-Duck Suh}{\textit{Coastal Engineering Laboratory, Seoul National University}}
+%\item Developed a robust hybrid Artificial Neural Network (ANN) model integrated with the Harmony search algorithm to estimate the stability number of armor unit of rubble mound structure 
+%\end{rSubsection}
 
 
 %------------------------------------------------
@@ -114,26 +127,27 @@ BS in Spatial Environment System Engineering
 %----------------------------------------------------------------------------------------
 
 
-\begin{rSection}{COMPUTER SKILLS }
-\vspace{-2.5mm}
-\item \textbf{Operating Systems}: Windows, Linux
-\item \textbf{Programming}: C/C++, MATLAB, Python, MPI, Visual Basic
-\item \textbf{Scientific Applications}: \LaTeX, OpenFOAM, FEniCS, ParaView, GIS, HEC-RAS, HEC-HMS  
-\item \textbf{Technical Drawing}: yEd, Adobe Illustrator, AutoCAD, Microsoft Visio
-\end{rSection}
-
-\newpage
+%\begin{rSection}{COMPUTER SKILLS }
+%\vspace{-2.5mm}
+%\item \textbf{Operating Systems}: Windows, Linux
+%\item \textbf{Programming}: C/C++, MATLAB, Python, MPI, Visual Basic
+%\item \textbf{Scientific Applications}: \LaTeX, OpenFOAM, FEniCS, ParaView, GIS, HEC-RAS, HEC-HMS  
+%\item \textbf{Technical Drawing}: Inkscape, Adobe Illustrator, AutoCAD, Microsoft Visio
+%\end{rSection}
+%
+%\newpage
 %----------------------------------------------------------------------------------------
 %	TECHNICAL STRENGTHS SECTION
 %----------------------------------------------------------------------------------------
 
 \begin{rSection}{JOURNAL ARTICLES}
 \vspace{-2.5mm}
-\item \textbf{A. Lee}, A. Aubeneau, M. B. Cardenas, X. Liu, The importance of the air-water interface in estimating hyporheic flux (in preparation)
-\item \textbf{A. Lee}, A. Aubeneau, M. B. Cardenas (2020) The Sensitivity of Hyporheic Exchange to Fractal Properties of Riverbeds. \textit{Water Resour. Res.} (under review)
-\item S. W. Kim, \textbf{A. Lee}, J. Mun (2018) A Surrogate Modeling for Storm Surge Prediction Using an Artificial Neural Network. \textit{J. of Coastal Res.} 84, 866-870.
-\item \textbf{A. Lee}, J. W. Geem, K. D. Suh (2016) Determination of near-global optimal initial weights of artificial neural network using harmony search algorithm: Application to breakwater armor stones. \textit{Appl. Sci.} 6(6), 164.
-\item \textbf{A. Lee}, S. E. Kim, K. D. Suh (2016) An easy way to use artificial neural network model for calculating stability number of rock armor. \textit{Ocean Eng.} 127, 349-356.  
+\item \textbf{A. Lee}, A. Aubeneau, M. B. Cardenas, X. Liu, Boulder-driven hyporheic exchange (in preparation)
+\item \textbf{A. Lee}, A. Aubeneau, M. B. Cardenas, X. Liu, Hyporheic exchange over dunes in rivers with deforming free water surface (Under review)
+\item \textbf{A. Lee}, A. Aubeneau, M. B. Cardenas (2020) The Sensitivity of Hyporheic Exchange to Fractal Properties of Riverbeds. \textit{Water Resour. Res.} 56, e2019WR026560. \href{https://doi.org/10.1029/2019WR026560}{\textcolor{blue}{doi:10.1029/2019WR026560}}
+\item S. W. Kim, \textbf{A. Lee}, J. Mun (2018) A Surrogate Modeling for Storm Surge Prediction Using an Artificial Neural Network. \textit{J. of Coastal Res.} 84, 866-870. \href{https://doi.org/10.2112/SI85-174.1}{\textcolor{blue}{doi:10.2112/SI85-174.1}}
+\item \textbf{A. Lee}, J. W. Geem, K. D. Suh (2016) Determination of near-global optimal initial weights of artificial neural network using harmony search algorithm: Application to breakwater armor stones. \textit{Appl. Sci.} 6(6), 164. \href{https://doi.org/10.3390/app6060164}{\textcolor{blue}{doi:10.3390/app6060164}}
+\item \textbf{A. Lee}, S. E. Kim, K. D. Suh (2016) An easy way to use artificial neural network model for calculating stability number of rock armor. \textit{Ocean Eng.} 127, 349-356.  \href{https://doi.org/10.1016/j.oceaneng.2016.10.013}{\textcolor{blue}{doi:10.1016/j.oceaneng.2016.10.013}}
 \end{rSection}
 
 \begin{rSection}{CONFERENCE PROCEEDINGS}
@@ -173,17 +187,17 @@ BS in Spatial Environment System Engineering
 %----------------------------------------------------------------------------------------
 
 
-\begin{rSection}{REFERENCES}
-\vspace{-2.5mm}
-\item \textbf{Prof. Antoine Aubeneau} \hfill aubeneau@purdue.edu 
-\\ \hspace*{\fill} Lyles School of Civil engineering, Purdue University
-\vspace{2mm}
-\item \textbf{Prof. M. Bayani Cardenas} \hfill cardenas@jsg.utexas.edu
-\\ \hspace*{\fill} Jackson School of Geosciences, The University of Texas at Austin
-\vspace{2mm}
-\item \textbf{Prof. Xiaofeng Liu} \hfill xzl123@psu.edu
-\\ \hspace*{\fill} Civil and Environmental Engineering, Penn State University
-\end{rSection}
+%\begin{rSection}{REFERENCES}
+%\vspace{-2.5mm}
+%\item \textbf{Prof. Antoine Aubeneau} \hfill aubeneau@purdue.edu 
+%\\ \hspace*{\fill} Lyles School of Civil engineering, Purdue University
+%\vspace{2mm}
+%\item \textbf{Prof. M. Bayani Cardenas} \hfill cardenas@jsg.utexas.edu
+%\\ \hspace*{\fill} Jackson School of Geosciences, The University of Texas at Austin
+%\vspace{2mm}
+%\item \textbf{Prof. Xiaofeng Liu} \hfill xzl123@psu.edu
+%\\ \hspace*{\fill} Civil and Environmental Engineering, Penn State University
+%\end{rSection}
 %----------------------------------------------------------------------------------------
 %	EXAMPLE SECTION
 %----------------------------------------------------------------------------------------
