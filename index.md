@@ -1,12 +1,11 @@
 ## Welcome to Anzy's homepage
 
 
-**Ph.d Candidate**  
-Lyles School of Civil Engineering  
-Purdue University
+**Postdoctoral Candidate**  
+Department of Civil and Environmental Engineering, Utah State University
 
 **Contact**  
-lee2513@purdue.edu  
+anzy.lee@usu.edu
 [CV](https://anzylee.github.io/anzyLee.pdf)  
 [Google Scholar](https://scholar.google.com/citations?user=g0oQ7wwAAAAJ&hl=en)
 
