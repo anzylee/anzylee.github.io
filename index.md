@@ -14,7 +14,7 @@ anzy.lee@usu.edu
 
 **Short bio**
 
-Dr. Lee is working with Dr. Lane and Dr. Pasternack (UC Davis) to quantify the effects of geomorphological and topographic parameters on ecohydraulics and ecosystem functions. She primarily focuses on (1) developing a river archetype model that can accurately represent various geomorphological features observed in natural riverine systems and (2) assessing their impact on ecohydraulics and ecology. She holds a Ph.D. from Purdue University linking riverbed morphology, hydrodynamics, and hyporheic exchange processes. 
+I am working with Dr. Lane and Dr. Pasternack (UC Davis) to quantify the effects of geomorphological and topographic parameters on ecohydraulics and ecosystem functions. My research focuses on (1) developing a river archetype model that can accurately represent various geomorphological features observed in natural riverine systems and (2) assessing their impact on ecohydraulics and ecology. I received a Ph.D. from Purdue University in linking riverbed morphology, hydrodynamics, and hyporheic exchange processes. 
 
 ### Pulibcation
 1. **A. Lee**, A. Aubeneau, M. B. Cardenas, X. Liu, Boulder-driven hyporheic exchange (in preparation)
