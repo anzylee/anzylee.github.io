@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.2) (preloaded format=pdflatex 2021.2.24)  31 AUG 2021 22:31
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.2) (preloaded format=pdflatex 2021.2.24)  7 SEP 2021 00:34
 entering extended mode
 **./anzyLee.tex
 (anzyLee.tex
@@ -532,7 +532,7 @@ LaTeX Font Info:    Font shape `T1/Raleway-TLF/b/n' will be
 LaTeX Font Info:    Font shape `T1/Raleway-TLF/m/it' will be
 (Font)              scaled to size 10.95pt on input line 59.
 
-Overfull \hbox (14.8837pt too wide) in paragraph at lines 146--147
+Overfull \hbox (14.8837pt too wide) in paragraph at lines 147--148
 \T1/Raleway-TLF/m/n/10.95 De-form-ing River Wa-ter Sur-face. \T1/Raleway-TLF/m/
 it/10.95 Wa-ter Re-sour. Res. \T1/Raleway-TLF/m/n/10.95 57, e2020WR028817. [][]
 doi:10.1029/2020WR028817[][] 
@@ -558,7 +558,7 @@ ay/Raleway-Bold.pfb><C:/Users/anzyl/AppData/Local/Programs/MiKTeX/fonts/type1/i
 mpallari/raleway/Raleway-Italic.pfb><C:/Users/anzyl/AppData/Local/Programs/MiKT
 eX/fonts/type1/impallari/raleway/Raleway-Regular.pfb><C:/Users/anzyl/AppData/Lo
 cal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on anzyLee.pdf (2 pages, 79680 bytes).
+Output written on anzyLee.pdf (2 pages, 79833 bytes).
 PDF statistics:
  38 PDF objects out of 1000 (max. 8388607)
  3 named destinations out of 1000 (max. 500000)
