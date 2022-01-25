@@ -30,7 +30,9 @@ I am working with Dr. Lane (USU) and Dr. Pasternack (UC Davis) to quantify the e
 
 ### Teaching and Mentoring
 * **Lab Instructor and Grader**, Elementary Hydraulics Laboratory, Purdue University (Fall 2019)
+
 Prepared the experimental procedures, set up the experimental apparatus, introduced the experiment, responded to student questions during the experiment, and graded student reports
+
 * **Lab Instructor and Grader**, Elementary Fluid Mechanics, Seoul National University (Fall 2014)  
 
 ### Awards, Service Experience and Extracurricular Experience
