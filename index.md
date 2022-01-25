@@ -34,7 +34,7 @@ Prepared the experimental procedures, set up the experimental apparatus, introdu
 * **Lab Instructor and Grader**, Elementary Fluid Mechanics, Seoul National University (Fall 2014)  
 
 ### Awards, Service Experience and Extracurricular Experience
-* **Peer Reviewer**, Water Resources Research Peer Reviewer, River Research and Applications Peer Reviewer, The journal Engineering Optimization
+* **Peer Reviewer**, Water Resources Research, River Research and Applications, The journal Engineering Optimization
 * **Climate Science Summer School**, NASA JPL Center for Climate Sciences (2018)
 * **Delleur Award**, Purdue University (2017, 2018)
 * **Summer Institute on Earth-Surface Dynamics**, National Center for Earth-surface Dynamics (2017)
