@@ -1,7 +1,7 @@
 This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.2) (preloaded format=pdflatex 2021.2.24)  25 JAN 2022 15:45
 entering extended mode
-**./anzyLee.tex
-(anzyLee.tex
+**./anzyLee_old.tex
+(anzyLee_old.tex
 LaTeX2e <2020-10-01> patch level 4
 L3 programming layer <2021-02-18> xparse <2020-03-03>{C:/Users/anzyl/AppData/Lo
 cal/MiKTeX/pdftex/config/pdftex.map}{C:/Users/anzyl/AppData/Local/Programs/MiKT
@@ -412,8 +412,9 @@ tex.def
 File: l3backend-pdftex.def 2021-02-18 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count268
 \l__pdf_internal_box=\box49
-) (anzyLee.aux)
-\openout1 = `anzyLee.aux'.
+)
+No file anzyLee_old.aux.
+\openout1 = `anzyLee_old.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 39.
 LaTeX Font Info:    ... okay on input line 39.
@@ -432,7 +433,6 @@ LaTeX Font Info:    ... okay on input line 39.
 LaTeX Font Info:    Checking defaults for LY1/ptm/m/n on input line 39.
 LaTeX Font Info:    Trying to load font information for LY1+ptm on input line 3
 9.
-
 (C:\Users\anzyl\AppData\Local\Programs\MiKTeX\tex/latex/ly1\ly1ptm.fd
 File: ly1ptm.fd 2001/02/01 font definitions for LY1/ptm using Berry names.
 )
@@ -458,9 +458,8 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 39.
 LaTeX Info: Redefining \pageref on input line 39.
 LaTeX Info: Redefining \nameref on input line 39.
- (anzyLee.out) (anzyLee.out)
 \@outlinefile=\write3
-\openout3 = `anzyLee.out'.
+\openout3 = `anzyLee_old.out'.
 
 
 (C:\Users\anzyl\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
@@ -531,36 +530,42 @@ LaTeX Font Info:    Font shape `T1/Raleway-TLF/b/n' will be
 (Font)              scaled to size 10.95pt on input line 57.
 LaTeX Font Info:    Font shape `T1/Raleway-TLF/m/it' will be
 (Font)              scaled to size 10.95pt on input line 59.
-[1
 
-]
-Overfull \hbox (14.8837pt too wide) in paragraph at lines 152--153
+Overfull \hbox (14.8837pt too wide) in paragraph at lines 147--148
 \T1/Raleway-TLF/m/n/10.95 De-form-ing River Wa-ter Sur-face. \T1/Raleway-TLF/m/
 it/10.95 Wa-ter Re-sour. Res. \T1/Raleway-TLF/m/n/10.95 57, e2020WR028817. [][]
 doi:10.1029/2020WR028817[][] 
  []
 
-[2] (anzyLee.aux)
-Package rerunfilecheck Info: File `anzyLee.out' has not changed.
-(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+[1
+
+] [2] (anzyLee_old.aux)
+
+Package rerunfilecheck Warning: File `anzyLee_old.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `anzyLee_old.out':
+(rerunfilecheck)             Before: <no file>
+(rerunfilecheck)             After:  D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 9642 strings out of 479334
- 143270 string characters out of 2857084
- 453612 words of memory out of 3000000
+ 9636 strings out of 479334
+ 143049 string characters out of 2857084
+ 451540 words of memory out of 3000000
  26970 multiletter control sequences out of 15000+200000
  475484 words of font info for 46 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 83i,5n,88p,581b,393s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 83i,5n,88p,585b,395s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/anzyl/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/raleway/a_bzmck
 q.enc}<C:/Users/anzyl/AppData/Local/Programs/MiKTeX/fonts/type1/impallari/ralew
 ay/Raleway-Bold.pfb><C:/Users/anzyl/AppData/Local/Programs/MiKTeX/fonts/type1/i
 mpallari/raleway/Raleway-Italic.pfb><C:/Users/anzyl/AppData/Local/Programs/MiKT
 eX/fonts/type1/impallari/raleway/Raleway-Regular.pfb><C:/Users/anzyl/AppData/Lo
 cal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on anzyLee.pdf (2 pages, 80869 bytes).
+Output written on anzyLee_old.pdf (2 pages, 80030 bytes).
 PDF statistics:
- 39 PDF objects out of 1000 (max. 8388607)
+ 38 PDF objects out of 1000 (max. 8388607)
  3 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
