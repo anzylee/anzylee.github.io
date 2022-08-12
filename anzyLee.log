@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.2) (preloaded format=pdflatex 2021.2.24)  10 AUG 2022 14:20
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.2) (preloaded format=pdflatex 2021.2.24)  12 AUG 2022 11:02
 entering extended mode
 **./anzyLee.tex
 (anzyLee.tex
@@ -534,7 +534,7 @@ LaTeX Font Info:    Font shape `T1/Raleway-TLF/m/it' will be
 [1
 
 ]
-Overfull \hbox (14.8837pt too wide) in paragraph at lines 152--153
+Overfull \hbox (14.8837pt too wide) in paragraph at lines 153--154
 \T1/Raleway-TLF/m/n/10.95 De-form-ing River Wa-ter Sur-face. \T1/Raleway-TLF/m/
 it/10.95 Wa-ter Re-sour. Res. \T1/Raleway-TLF/m/n/10.95 57, e2020WR028817. [][]
 doi:10.1029/2020WR028817[][] 
@@ -547,7 +547,7 @@ Package rerunfilecheck Info: File `anzyLee.out' has not changed.
 Here is how much of TeX's memory you used:
  9642 strings out of 479334
  143270 string characters out of 2857084
- 453612 words of memory out of 3000000
+ 454612 words of memory out of 3000000
  26970 multiletter control sequences out of 15000+200000
  475484 words of font info for 46 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -558,7 +558,7 @@ ay/Raleway-Bold.pfb><C:/Users/anzyl/AppData/Local/Programs/MiKTeX/fonts/type1/i
 mpallari/raleway/Raleway-Italic.pfb><C:/Users/anzyl/AppData/Local/Programs/MiKT
 eX/fonts/type1/impallari/raleway/Raleway-Regular.pfb><C:/Users/anzyl/AppData/Lo
 cal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on anzyLee.pdf (2 pages, 80938 bytes).
+Output written on anzyLee.pdf (2 pages, 81874 bytes).
 PDF statistics:
  39 PDF objects out of 1000 (max. 8388607)
  3 named destinations out of 1000 (max. 500000)
