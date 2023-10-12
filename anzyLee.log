@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.2) (preloaded format=pdflatex 2021.2.24)  11 OCT 2023 23:09
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.2) (preloaded format=pdflatex 2021.2.24)  11 OCT 2023 23:20
 entering extended mode
 **./anzyLee.tex
 (anzyLee.tex
@@ -531,6 +531,8 @@ LaTeX Font Info:    Font shape `T1/Raleway-TLF/b/n' will be
 (Font)              scaled to size 10.95pt on input line 57.
 LaTeX Font Info:    Font shape `T1/Raleway-TLF/m/it' will be
 (Font)              scaled to size 10.95pt on input line 59.
+LaTeX Font Info:    Font shape `T1/Raleway-TLF/b/it' will be
+(Font)              scaled to size 10.95pt on input line 147.
 [1
 
 ]
@@ -545,22 +547,24 @@ Package rerunfilecheck Info: File `anzyLee.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 9642 strings out of 479334
- 143270 string characters out of 2857084
+ 9645 strings out of 479334
+ 143351 string characters out of 2857084
  452612 words of memory out of 3000000
- 26970 multiletter control sequences out of 15000+200000
- 475484 words of font info for 46 fonts, out of 3000000 for 9000
+ 26971 multiletter control sequences out of 15000+200000
+ 489995 words of font info for 48 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  83i,5n,88p,581b,319s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/anzyl/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/raleway/a_bzmck
 q.enc}<C:/Users/anzyl/AppData/Local/Programs/MiKTeX/fonts/type1/impallari/ralew
 ay/Raleway-Bold.pfb><C:/Users/anzyl/AppData/Local/Programs/MiKTeX/fonts/type1/i
-mpallari/raleway/Raleway-Italic.pfb><C:/Users/anzyl/AppData/Local/Programs/MiKT
-eX/fonts/type1/impallari/raleway/Raleway-Regular.pfb><C:/Users/anzyl/AppData/Lo
-cal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on anzyLee.pdf (2 pages, 80892 bytes).
+mpallari/raleway/Raleway-BoldItalic.pfb><C:/Users/anzyl/AppData/Local/Programs/
+MiKTeX/fonts/type1/impallari/raleway/Raleway-Italic.pfb><C:/Users/anzyl/AppData
+/Local/Programs/MiKTeX/fonts/type1/impallari/raleway/Raleway-Regular.pfb><C:/Us
+ers/anzyl/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.p
+fb>
+Output written on anzyLee.pdf (2 pages, 99252 bytes).
 PDF statistics:
- 40 PDF objects out of 1000 (max. 8388607)
+ 44 PDF objects out of 1000 (max. 8388607)
  3 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
