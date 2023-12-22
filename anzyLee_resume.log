@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.2) (preloaded format=pdflatex 2021.2.24)  22 DEC 2023 11:49
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.2) (preloaded format=pdflatex 2021.2.24)  6 NOV 2023 10:07
 entering extended mode
-**./anzyLee.tex
-(anzyLee.tex
+**./anzyLee_resume.tex
+(anzyLee_resume.tex
 LaTeX2e <2020-10-01> patch level 4
 L3 programming layer <2021-02-18> xparse <2020-03-03>{C:/Users/anzyl/AppData/Lo
 cal/MiKTeX/pdftex/config/pdftex.map}{C:/Users/anzyl/AppData/Local/Programs/MiKT
@@ -412,8 +412,8 @@ tex.def
 File: l3backend-pdftex.def 2021-02-18 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count268
 \l__pdf_internal_box=\box49
-) (anzyLee.aux)
-\openout1 = `anzyLee.aux'.
+) (anzyLee_resume.aux)
+\openout1 = `anzyLee_resume.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 41.
 LaTeX Font Info:    ... okay on input line 41.
@@ -458,9 +458,9 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 41.
 LaTeX Info: Redefining \pageref on input line 41.
 LaTeX Info: Redefining \nameref on input line 41.
- (anzyLee.out) (anzyLee.out)
+ (anzyLee_resume.out) (anzyLee_resume.out)
 \@outlinefile=\write3
-\openout3 = `anzyLee.out'.
+\openout3 = `anzyLee_resume.out'.
 
 
 (C:\Users\anzyl\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
@@ -487,14 +487,14 @@ ii
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
 * h-part:(L,W,R)=(54.2025pt, 505.89pt, 54.2025pt)
-* v-part:(T,H,B)=(43.36243pt, 708.24513pt, 43.36243pt)
+* v-part:(T,H,B)=(72.26999pt, 650.43001pt, 72.26999pt)
 * \paperwidth=614.295pt
 * \paperheight=794.96999pt
 * \textwidth=505.89pt
-* \textheight=708.24513pt
+* \textheight=650.43001pt
 * \oddsidemargin=-18.06749pt
 * \evensidemargin=-18.06749pt
-* \topmargin=-65.90756pt
+* \topmargin=-37.0pt
 * \headheight=12.0pt
 * \headsep=25.0pt
 * \topskip=11.0pt
@@ -518,42 +518,45 @@ LaTeX Font Info:    Font shape `T1/Raleway-TLF/b/n' will be
 (Font)              scaled to size 20.74pt on input line 41.
 LaTeX Font Info:    Font shape `T1/Raleway-TLF/b/n' will be
 (Font)              scaled to size 10.95pt on input line 41.
-
-Overfull \hbox (30.0pt too wide) in paragraph at lines 41--41
-[] 
- []
-
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <10.95> on input line 41.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 41.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 41.
+
+Overfull \hbox (30.0pt too wide) in paragraph at lines 41--41
+[] 
+ []
+
+LaTeX Font Info:    Font shape `T1/Raleway-TLF/m/n' will be
+(Font)              scaled to size 8.0pt on input line 64.
 LaTeX Font Info:    Font shape `T1/Raleway-TLF/m/it' will be
-(Font)              scaled to size 10.95pt on input line 61.
-LaTeX Font Info:    Font shape `T1/Raleway-TLF/b/it' will be
-(Font)              scaled to size 10.95pt on input line 149.
+(Font)              scaled to size 10.95pt on input line 76.
 [1
 
 ]
-Overfull \hbox (14.8837pt too wide) in paragraph at lines 163--164
+LaTeX Font Info:    Font shape `T1/Raleway-TLF/b/it' will be
+(Font)              scaled to size 10.95pt on input line 163.
+
+Overfull \hbox (14.8837pt too wide) in paragraph at lines 177--178
 \T1/Raleway-TLF/m/n/10.95 De-form-ing River Wa-ter Sur-face. \T1/Raleway-TLF/m/
 it/10.95 Wa-ter Re-sour. Res. \T1/Raleway-TLF/m/n/10.95 57, e2020WR028817. [][]
 doi:10.1029/2020WR028817[][] 
  []
 
-[2] (anzyLee.aux)
-Package rerunfilecheck Info: File `anzyLee.out' has not changed.
+[2] (anzyLee_resume.aux)
+Package rerunfilecheck Info: File `anzyLee_resume.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 9645 strings out of 479334
- 143351 string characters out of 2857084
- 452646 words of memory out of 3000000
- 26971 multiletter control sequences out of 15000+200000
- 489995 words of font info for 48 fonts, out of 3000000 for 9000
+ 9647 strings out of 479334
+ 143511 string characters out of 2857084
+ 452598 words of memory out of 3000000
+ 26972 multiletter control sequences out of 15000+200000
+ 503607 words of font info for 50 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 83i,5n,88p,581b,319s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 83i,5n,88p,588b,319s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/anzyl/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/raleway/a_bzmck
 q.enc}<C:/Users/anzyl/AppData/Local/Programs/MiKTeX/fonts/type1/impallari/ralew
 ay/Raleway-Bold.pfb><C:/Users/anzyl/AppData/Local/Programs/MiKTeX/fonts/type1/i
@@ -562,7 +565,7 @@ MiKTeX/fonts/type1/impallari/raleway/Raleway-Italic.pfb><C:/Users/anzyl/AppData
 /Local/Programs/MiKTeX/fonts/type1/impallari/raleway/Raleway-Regular.pfb><C:/Us
 ers/anzyl/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.p
 fb>
-Output written on anzyLee.pdf (2 pages, 99259 bytes).
+Output written on anzyLee_resume.pdf (2 pages, 99881 bytes).
 PDF statistics:
  44 PDF objects out of 1000 (max. 8388607)
  3 named destinations out of 1000 (max. 500000)
