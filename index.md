@@ -49,9 +49,6 @@ A scientist with a passion for environmental hydrodynamics, fluvial geomorpholog
 ### Teaching and Mentoring
 * **Lab Instructor and Grader**, Elementary Hydraulics Laboratory, Purdue University (Fall 2019)
 
-Prepared the experimental procedures, set up the experimental apparatus, introduced the experiment, responded to student questions during the experiment, and graded student reports
-
-
 ### Awards and Service 
 * **Peer Reviewer**, River Res. Applic., Earth Surf. Process. Landf., Water Resour. Res., J. Hydrol., J. Hydraul. Eng.
 * **Delleur Award**, Purdue University (2017, 2018)
