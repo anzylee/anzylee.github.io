@@ -52,4 +52,4 @@ A scientist with a passion for environmental hydrodynamics, fluvial geomorpholog
 ### Awards and Service 
 * **Peer Reviewer**, River Res. Applic., Earth Surf. Process. Landf., Water Resour. Res., J. Hydrol., J. Hydraul. Eng.
 * **Delleur Award**, Purdue University (2017, 2018)
-* **Merit Scholarship (Top 5%)}**, Handong University (2012)
+* **Merit Scholarship (Top 5%)**, Handong University (2012)
