@@ -14,7 +14,7 @@ anzy.lee@usu.edu
 
 **Short bio**
 
-A scientist with a passion for environmental hydrodynamics, fluvial geomorphology, surface \& groundwater interactions, sediment transport, aquatic ecosystem, and watershed hydrology. My mission is to understand watershed dynamics and nteractions to enhance ecosystem function and resilience.
+A scientist with a passion for environmental hydrodynamics, fluvial geomorphology, surface & groundwater interactions, sediment transport, aquatic ecosystem, and watershed hydrology. My mission is to understand watershed dynamics and nteractions to enhance ecosystem function and resilience.
 
 ### Pulibcation
 
