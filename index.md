@@ -43,7 +43,7 @@ A scientist with a passion for environmental hydrodynamics, fluvial geomorpholog
 2. **A. Lee** (2024). Width Extraction Tools [Python]. GitHub. [[Link]](https://github.com/USU-CIROH/width_extraction_public)
 3. **A. Lee** (2024). Habitat Analysis Tools [Python]. GitHub. [[Link]](https://github.com/anzylee/habitat_analysis_public)
 4. **A. Lee** (2024). Spectral Analysis Tools for Geomorphic Variability Functions [Python]. GitHub. [[Link]](https://github.com/anzylee/habitat_analysis_public)
-5. **A. Lee** (2024). Spectral Analysis Tools for Geomorphic Variability Functions [C++, OpenFOAM]. HydroShare. [[Link]](https://www.hydroshare.org/resource/dc7e13f675da42a492a4ebf1e1c337d1)
+5. **A. Lee** (2024). hyporheicScalarInterFoam [C++, OpenFOAM]. HydroShare. [[Link]](https://www.hydroshare.org/resource/dc7e13f675da42a492a4ebf1e1c337d1)
 
 
 ### Teaching and Mentoring
