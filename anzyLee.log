@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.2) (preloaded format=pdflatex 2021.2.24)  30 NOV 2025 20:47
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.2) (preloaded format=pdflatex 2021.2.24)  5 JAN 2026 11:14
 entering extended mode
 **./anzyLee.tex
 (anzyLee.tex
@@ -532,9 +532,9 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 41.
 LaTeX Font Info:    Font shape `T1/Raleway-TLF/m/it' will be
-(Font)              scaled to size 10.95pt on input line 63.
+(Font)              scaled to size 10.95pt on input line 65.
 
-Overfull \hbox (7.25912pt too wide) in paragraph at lines 165--166
+Overfull \hbox (7.25912pt too wide) in paragraph at lines 167--168
 []\T1/Raleway-TLF/m/n/10.95 Castejon, J., \T1/Raleway-TLF/b/n/10.95 Lee, A.\T1/
 Raleway-TLF/m/n/10.95 , Pat-ter-son, N. K., Lane, B., and Phillips, C. B. \T1/R
 aleway-TLF/m/it/10.95 (Sub-mit-ted) \T1/Raleway-TLF/m/n/10.95 Lever-ag-ing High
@@ -562,7 +562,7 @@ mpallari/raleway/Raleway-Italic.pfb><C:/Users/anzyl/AppData/Local/Programs/MiKT
 eX/fonts/type1/impallari/raleway/Raleway-Regular.pfb><C:/Users/anzyl/AppData/Lo
 cal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/anzyl/Ap
 pData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on anzyLee.pdf (2 pages, 94930 bytes).
+Output written on anzyLee.pdf (2 pages, 94578 bytes).
 PDF statistics:
  49 PDF objects out of 1000 (max. 8388607)
  3 named destinations out of 1000 (max. 500000)
